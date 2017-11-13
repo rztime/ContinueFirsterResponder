@@ -1,0 +1,2 @@
+# ContinueFirsterResponder
+iOS 界面刷新时 保持UITextField UITextView UISearchBar 响应，保持键盘一直打开，并可在刷新后指定定位到某输入框作为第一响应者
